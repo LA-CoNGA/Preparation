@@ -1,5 +1,11 @@
 # Research Software Engineering in Python
 
+Instructor:
+
+Number of hours:
+
+Number of ECTS:
+
 ## Course description
 
 ### Topic overview
