@@ -15,16 +15,26 @@ The magistral classes are completed with practical training sessions.
 ### Topic overview
 
 \section{Basic concepts in probability and statistics}
-\subsection{Random processes}
-\subsection{Mathematical probability}
-\subsubsection{Conditional probability and Bayes' theorem}
-\subsubsection{The probability density function}
-\subsubsection{Multidimensional PDFs}
+
+-----\subsection{Random processes}
+
+-----\subsection{Mathematical probability}
+
+----------\subsubsection{Conditional probability and Bayes' theorem}
+
+----------\subsubsection{The probability density function}
+
+----------\subsubsection{Multidimensional PDFs}
+               
 \section{Parametric PDFs and parameter estimation} 
-\subsection{Expectation values}
-\subsection{Shape characterisation} 
-\subsection{Parameter estimation} 
-\subsubsection{The classical examples: mean value and variance} 
+
+         \subsection{Expectation values}
+         
+          \subsection{Shape characterisation} 
+          
+          \subsection{Parameter estimation} 
+          
+                  \subsubsection{The classical examples: mean value and variance} 
 \subsubsection{Covariance, correlations, propagation of uncertainties}
 \section{A survey of selected distributions}
 \subsection{Two examples of discrete distributions: Binomial and Poisson} 
