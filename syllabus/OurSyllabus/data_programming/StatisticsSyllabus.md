@@ -2,7 +2,7 @@
 
 Instructor:
 
-Number of hours:to be defined
+Number of hours: 16 hours of classes over one month (~24 hours of total work)
 
 Number of ECTS: to be defined
 
