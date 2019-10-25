@@ -76,8 +76,6 @@ The magistral classes are completed with practical training sessions.
 
           \subsubsection{The profile-likelihod method}
 
-\section{Multivariate techniques}
-
 \section{Statistical hypothesis testing}
 
      \subsection{The $\chi^2$ test} 
@@ -90,7 +88,10 @@ The magistral classes are completed with practical training sessions.
 
           \subsubsection{Profiled likelihood ratios}
           
-          - A/B testing
+     \subsection{A/B testing}
+     
+\section{Multivariate techniques}
+
 
 ## Pre-requisites
 
