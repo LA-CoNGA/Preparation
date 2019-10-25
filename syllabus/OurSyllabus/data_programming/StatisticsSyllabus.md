@@ -80,11 +80,11 @@ The magistral classes are completed with practical training sessions.
 
 \section{Statistical hypothesis testing}
 
-     \subsection{The $\chi^2$ test}\label{sec:chi2test}
+     \subsection{The $\chi^2$ test} 
 
-     \subsection{General properties of hypothesis  testing}\label{hypotesting}
+     \subsection{General properties of hypothesis  testing}
 
-     \subsection{From LEP to LHC:  statistics in particle physics}
+     \subsection{From LEP to LHC: statistics in particle physics}
 
           \subsubsection{The modified ${\rm CL}(s)$ hypothesis testing}
 
