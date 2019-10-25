@@ -1,8 +1,16 @@
+(comments from the discussion)
+The first classical sections can remain more or less as they are.
+The section on ML has to start with simpler examples
+There should be a section on Bayesian stats
+This syllabus needs more details on the interaction lectures/training
+The terminology should cover both the physicists' language and the outsider world.
+(\comments)
+
 # Title Probability and Statistics
 
 Instructor:
 
-Number of hours: 16 hours of classes over one month, 16 hours of training
+Number of hours: 24 hours of classes over one month, 16 hours of training
 
 Number of ECTS: to be defined
 
