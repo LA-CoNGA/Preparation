@@ -89,6 +89,8 @@ The magistral classes are completed with practical training sessions.
           \subsubsection{The modified ${\rm CL}(s)$ hypothesis testing}
 
           \subsubsection{Profiled likelihood ratios}
+          
+          - A/B testing
 
 ## Pre-requisites
 
