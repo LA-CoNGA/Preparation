@@ -1,4 +1,4 @@
-# Title
+# Title Probability and Statistics
 
 Instructor:
 
