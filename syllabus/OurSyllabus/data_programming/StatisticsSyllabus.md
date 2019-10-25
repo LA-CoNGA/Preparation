@@ -2,9 +2,9 @@
 
 Instructor:
 
-Number of hours:
+Number of hours:to be defined
 
-Number of ECTS:
+Number of ECTS: to be defined
 
 ## Course description
 
