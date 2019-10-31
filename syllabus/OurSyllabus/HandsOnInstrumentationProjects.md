@@ -2,9 +2,9 @@
 
 Instructor:
 
-Number of hours: 25 hours of work over one month 
+Number of hours: 48 hours of work over one month
 
-Number of ECTS: 2 ECTS
+Number of ECTS: 2
 
 ## Course description
 
