@@ -1,4 +1,4 @@
-# Research Software Engineering in Python
+# Detector Physics
 
 Instructor:
 
@@ -7,26 +7,23 @@ Number of hours: 16 hours of classes over one month (~24 hours of total work)
 Number of ECTS: 1 ECTS
 
 ## Course description
-The aim of this course is learn how to construct reliable, readable, efficient research software in a collaborative environment. 
-The course is based on Python but the general ideas can be applied to any other programming language.
+The aim of this course is learn the principles of particle detection, as well as to get an overview on the most used detectors used nowdays. The course will be divided even further, such that each kind of detector will be covered by a different teacher. Lectures should include as many exercises as posible and lecturers are encourage to invite people for short seminar about state-of-the-art detection techniques when possible.
 
 ### Topic overview
 
-* Introduction to software engineering for reproducible research
-* Python basics
-* Research Data in Python
-* Version Control
-* Testing your code
-* Building software projects
-* Reproducible environments
-* Construction and design practices
-* Speed and optimisation
-* Advanced Programming Techniques
+* Historic of particle detection
+* Particle-matter interactions
+* Solid state detector: 
+** Scintillators and photodetectors
+** Semi-conductor based detectors
+* Gaseous detectors
+* Calorimetry: electromagnetic and hadronic calorimetry
+* Particle identification in nuclear and high energy physics
+* From detectors to data: trigger, simulation, reconstruction/calibration, a glance of data analysis
 
 ## Pre-requisites
 
-Basic programming knowledge. Students should have done an introductory course in Python, 
- we will provide a recommended online course. 
+Basic programming knowledge. 
  
 ## Schedule
 
@@ -36,7 +33,6 @@ Basic programming knowledge. Students should have done an introductory course in
 
 ### Required
 
-This course is largely based on the course created by J. Hetherington for PhD 
-students at The Alan Turing Institue https://alan-turing-institute.github.io/rsd-engineeringcourse/
+This course is largely based on the course created by XXXXX
 
 ### Further reading
