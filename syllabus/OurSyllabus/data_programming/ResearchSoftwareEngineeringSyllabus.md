@@ -37,6 +37,11 @@ Basic programming knowledge. Students should have done an introductory course in
 ### Required
 
 This course is largely based on the course created by J. Hetherington for PhD 
-students at The Alan Turing Institue https://alan-turing-institute.github.io/rsd-engineeringcourse/
+students at The Alan Turing Institute https://alan-turing-institute.github.io/rsd-engineeringcourse/
 
-### Further reading
+### Recommended reading
+
+* The Turing Way guide: https://the-turing-way.netlify.com/introduction/introduction
+
+
+
