@@ -22,6 +22,7 @@ All students will do both exercises.
 The courses of statistics and RSE. 
 
 ## Schedule
+TBD
 
 ## Grading
 
