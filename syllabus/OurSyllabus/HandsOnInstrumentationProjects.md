@@ -27,6 +27,7 @@ Introduction to Electronics for Physicists.
 Detector physics course.
  
 ## Schedule
+TBD
 
 ## Grading
 
