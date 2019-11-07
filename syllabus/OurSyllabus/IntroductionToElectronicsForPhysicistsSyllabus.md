@@ -18,6 +18,7 @@ Basic programming knowledge.
 Something else?
  
 ## Schedule
+TBD
 
 ## Grading
 
