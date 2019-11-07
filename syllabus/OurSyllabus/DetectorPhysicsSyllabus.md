@@ -33,6 +33,6 @@ Basic programming knowledge.
 
 ### Required
 
-This course is largely based on the course created by XXXXX
+This course is largely based on NPAC courses created by XXXXX
 
 ### Further reading
