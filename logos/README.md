@@ -5,6 +5,6 @@
 * The logo is also without background in each of the formats.
 
 
-* *Author*:
-** https://www.instagram.com/azul_pipita/
-** estefania@azulpipita.com
+* **Author**
+   * https://www.instagram.com/azul_pipita/
+   * estefania@azulpipita.com
