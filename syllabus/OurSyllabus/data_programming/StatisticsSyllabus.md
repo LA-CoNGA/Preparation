@@ -93,7 +93,7 @@ The magistral classes are completed with practical training sessions.
                        
       - Cost funtions and the gradient descent algorithm.
       - Regression problems: Linear regresion
-      - Classification problems: Logistic regresion, desition trees. 
+      - Classification problems: Logistic regresion, decision trees. 
           
    * Under-fitting & Over-fitting
           
