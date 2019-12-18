@@ -1,10 +1,4 @@
-(comments from the discussion)
-The first classical sections can remain more or less as they are.
-The section on ML has to start with simpler examples
-There should be a section on Bayesian stats
-This syllabus needs more details on the interaction lectures/training
-The terminology should cover both the physicists' language and the outsider world.
-(\comments)
+
 
 # Title Probability and Statistics
 
@@ -17,88 +11,96 @@ Number of ECTS: to be defined
 ## Course description
 A pedagogical selection of topics in probability and statistics is presented.
 Choice and emphasis are driven predominantly
-from physics analyses using experimental data from high-energy physics detectors.
+from physics analyses using experimental data from high-energy physics detectors. The final section gives a high level description of basic concepts on machine learning. 
 The magistral classes are completed with practical training sessions.
 
 ### Topic overview
 
-\section{Basic concepts in probability and statistics}
+#### Basic concepts in probability and statistics
 
-     \subsection{Random processes}
+* Random processes
 
-     \subsection{Mathematical probability}
+ * Mathematical probability
 
-          \subsubsection{Conditional probability and Bayes' theorem}
+     - Conditional probability and Bayes' theorem
 
-          \subsubsection{The probability density function}
+     - The probability density function
 
-          \subsubsection{Multidimensional PDFs}
+     - Multidimensional PDFs
                
-\section{Parametric PDFs and parameter estimation} 
+#### Parametric PDFs and parameter estimation 
 
-     \subsection{Expectation values}
+* Expectation values
 
-     \subsection{Shape characterisation} 
+* Shape characterisation 
 
-     \subsection{Parameter estimation} 
+* Parameter estimation
 
-          \subsubsection{The classical examples: mean value and variance} 
+     - The classical examples: mean value and variance
 
-          \subsubsection{Covariance, correlations, propagation of uncertainties}
+     - Covariance, correlations, propagation of uncertainties
 
-\section{A survey of selected distributions}
+* A survey of selected distributions
 
-     \subsection{Two examples of discrete distributions: Binomial and Poisson} 
+     - Two examples of discrete distributions: Binomial and Poisson 
 
-          \subsubsection{The binomial distribution}
+ 
+     - Common examples of real-valued distributions: Uniform, exponential, Gaussian, $\chi^2$, Breit-Wigner and Voigtian distributions
 
-          \subsubsection{The Poisson distribution}
+       
 
-     \subsection{Common examples of real-valued distributions} 
+ #### The maximum likelihood theorem and its applications
 
-          \subsubsection{The uniform distribution}
+   * Likelihood contours
 
-          \subsubsection{The exponential distribution}
+   * Selected topics on maximum likelihood
 
-          \subsubsection{The Gaussian distribution}
+        - Samples composed of multiple species
 
-          \subsubsection{The $\chi^2$ distributions}
+        -  Extended ML fits
 
-          \subsubsection{The Breit-Wigner and Voigtian distributions}
+        - Non-parabolic likelihoods,  likelihoods with multiple maxima
 
-\section{The maximum likelihood theorem and its applications}
-
-     \subsection{Likelihood contours} 
-
-     \subsection{Selected topics on maximum likelihood}
-
-          \subsubsection{Samples composed of multiple species}
-
-          \subsubsection{ Extended ML fits}
-
-          \subsubsection{``Non-parabolic'' likelihoods,  likelihoods with multiple maxima}
-
-          \subsubsection{Estimating efficiencies with ML fits}
-
-     \subsection{Systematic uncertainties}
-
-          \subsubsection{The profile-likelihod method}
-
-\section{Statistical hypothesis testing}
-
-     \subsection{The $\chi^2$ test} 
-
-     \subsection{General properties of hypothesis  testing}
-
-     \subsection{From LEP to LHC: statistics in particle physics}
-
-          \subsubsection{The modified ${\rm CL}(s)$ hypothesis testing}
-
-          \subsubsection{Profiled likelihood ratios}
+        - Estimating efficiencies with ML fits 
           
-     \subsection{A/B testing}
+        - ML applications: MLE parameter estimation for a regression and comparison with the Least Square Estimator. 
+
+   * Systematic uncertainties
+
+        - The profile-likelihod method
+
+ #### Statistical hypothesis testing
+
+   * The $\chi^2$ test
+
+   * General properties of hypothesis  testing
+
+   * From LEP to LHC: statistics in particle physics
+
+        - The modified ${\rm CL}(s)$ hypothesis testing
+
+        - Profiled likelihood ratios
+          
+   * Industry example : A/B testing  
      
-\section{Multivariate techniques}
+ #### Basic concepts in Machine Learning 
+ 
+   * Diferences between Machine Learning and Statistical Modelling 
+   
+   * Machine Learning categories: Supervised, unsupervised and reinforcment learning.
+   
+   * Basics of supervised learning:
+                       
+      - Cost funtions and the gradient descent algorithm.
+      - Regression problems: Linear regresion
+      - Classification problems: Logistic regresion, desition trees. 
+          
+   * Under-fitting & Over-fitting
+          
+       - Regularisation
+        
+        - Hyperparameter optimisation, cross validation 
+
 
 
 ## Pre-requisites
