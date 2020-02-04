@@ -1,6 +1,6 @@
 
 
-# Title Probability and Statistics
+# Probability and Statistics
 
 Instructor:
 
