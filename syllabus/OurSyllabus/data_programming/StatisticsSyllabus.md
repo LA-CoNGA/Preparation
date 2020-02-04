@@ -4,7 +4,7 @@
 
 Instructor:
 
-Number of hours: 24 hours of classes over one month, 16 hours of training
+Number of hours: 24 hours of classes over six weeks, 16 hours of training
 
 Number of ECTS: to be defined
 
