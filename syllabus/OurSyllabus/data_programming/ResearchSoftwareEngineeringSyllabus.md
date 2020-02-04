@@ -30,9 +30,81 @@ Basic programming knowledge. Students should have done an introductory course in
  
 ## Schedule
 
-## Grading
+### Week 1 (4 hours):	
+
+#### Introduction to Python
+- Why use scripting languages?
+- Python. IPython and the IPython notebook.
+- Data structures: list, dictionaries, and sets.
+- List comprehensions
+- Functions in Python
+- Modules in Python
+- An introduciton to classes
+
+#### Research Data in Python
+- Working with files on the disk
+- Interacting with the internet
+- JSON and YAML
+- Plotting with Matplotlib
+- Animations with Matplotlib
+
+### Week 2 (4 hours):	
+
+#### Version Control
+- Why use version control
+- Solo use of version control
+- Publishing your code to GitHub
+- Collaborating with others through Git
+- Branching
+- Rebasing and Merging
+- Debugging with GitBisect
+- Forks, Pull Requests and the GitHub Flow
+
+#### Testing your code
+- Why test?
+- Unit testing and regression testing
+- Negative testing
+- Mocking
+- Debugging
+- Continuous Integration
+
+### Week 3 (4 hours): 	
+
+#### Software Projects and Reproducible Environments
+- Turning your code into a package
+- Releasing code
+- Choosing an open-source license
+- Software project management
+- Organising issues and tasks
+
+#### Construction and Design
+- Coding conventions
+- Comments
+- Refactoring
+- Documentation
+- Object Orientation
+- Design Patterns
+
+### Week 4 (4 hours):	
+
+#### Programming for Speed
+- Optimisation
+- Profiling
+- Scaling laws
+- NumPy
+- Cython
+
+#### Advanced Programming Techniques
+- Functional programming
+- Metaprogramming
+- Duck typing and exceptions
+- Operator overloading
+- Iterators and Generators
+
 
 ## Course material
+
+https://alan-turing-institute.github.io/rsd-engineeringcourse/notes.pdf
 
 ### Required
 
