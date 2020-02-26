@@ -22,7 +22,7 @@ All students will do both exercises. There can be cases of one larger project ta
 #### Kaggle challenges
 #### Industry datasets
 
-Project title: ‘AI Commons’: A framework for collaboration to achieve global impact
+1. Project title: ‘AI Commons’: A framework for collaboration to achieve global impact
 
 Duration: 3 weeks
 
