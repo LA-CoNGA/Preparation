@@ -23,9 +23,13 @@ All students will do both exercises. There can be cases of one larger project ta
 #### Industry datasets
 
 Project title: ‘AI Commons’: A framework for collaboration to achieve global impact
+
 Duration: 3 weeks
+
 Dataset: Need to contact the community to get the datasets. These are datasets released in collaboration with the UN.
+
 Objectives: A common knowledge hub to accelerate the world’s challenges with Artificial Intelligence
+
 Comments: it might be better to use these datasets for the AI course in the second semester. Here is the link: https://ai-commons.org
 
 ## Pre-requisites
