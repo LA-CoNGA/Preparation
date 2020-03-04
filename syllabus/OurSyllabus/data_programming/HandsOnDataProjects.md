@@ -46,7 +46,18 @@ Objectives: This data file includes all needed information to find out more abou
 Comments: There is also the possiblity of having some data criminality statistics for the city of London. 
 
 
+3. Project title: Scientific computing: design and deploy of physics data analysis pipelines with in-house and cloud computing.
 
+Duration: 3 months or 6 months (the complexity can be calibrated)
+
+Dataset: LHC experiments Open Data at 8 and 13 TeV 
+
+Objectives: 
+* With the development of a physics analysis (HEP for example)
+    * Train the student to design data analysis in terms of the resources, the procedures, versioning and maintainability.
+    * Develop a culture of reproducibility and proper analysis development protocols.
+    * Get into the so-called "Big Data" by prototyping analysis using Open Data.
+    * Present the final products in a modern way, under the proper licensing and DOI identification.
 
 
 ## Pre-requisites
