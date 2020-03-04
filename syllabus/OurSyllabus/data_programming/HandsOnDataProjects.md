@@ -22,6 +22,8 @@ All students will do both exercises. There can be cases of one larger project ta
 #### Kaggle challenges
 #### Industry datasets
 
+### Proposed projects
+
 1. Project title: ‘AI Commons’: A framework for collaboration to achieve global impact
 
 Duration: 3 weeks
@@ -31,6 +33,21 @@ Dataset: Need to contact the community to get the datasets. These are datasets r
 Objectives: A common knowledge hub to accelerate the world’s challenges with Artificial Intelligence
 
 Comments: it might be better to use these datasets for the AI course in the second semester. Here is the link: https://ai-commons.org
+
+
+2. Project title: New York City Airbnb Open Data
+
+Duration: 3 weeks
+
+Dataset: kaggle challenge (https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
+
+Objectives: This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions. 
+
+Comments: There is also the possiblity of having some data criminality statistics for the city of London. 
+
+
+
+
 
 ## Pre-requisites
 
