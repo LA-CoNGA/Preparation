@@ -49,5 +49,7 @@ Quantum rotor models
 Course Material
 
 •	Statistical Physics of Fields, Mehran Kardar, Cambridge University Press
+
 •	Scaling and Renormalization in Statistical Physics, John Cardy, Cambridge Lecture Notes in Physics 
+
 •	Quantum Phase Transitions, Subir Sachdev, Cambridge University Press
