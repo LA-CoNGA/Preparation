@@ -1,3 +1,0 @@
-# Introduction 
-
-Introduce the project
