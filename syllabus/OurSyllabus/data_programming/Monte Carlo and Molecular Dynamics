@@ -1,0 +1,43 @@
+Monte Carlo and Molecular Dynamics Module
+
+Topic overview
+
+1. Ensembles
+
+Sampling from ensembles, Thermodynamics averages, fluctuations ,
+time correlation functions and transport coefficients, Inhomogeneous systems
+
+
+2. Molecular Dynamics
+
+Equations of motion for atomic systems, finite difference methods, Molecular dynamics of rigid non-spherical bodies, 
+multiple time-step algorithms, accuracy checks, molecular dynamics in contact with reservoirs,
+
+
+3. Monte-Carlo Methods
+
+Importance sampling, Metropolis method, Monte Carlo at constant temperature and pressure, 
+Grand Canonical Monte Carlo, Estimation of Free energy, Simulation of Phase equilibria.
+
+
+4. Practical simulation methods
+
+Neighbour lists, multiple time steps, organizing a simulation, self consistency, 
+parallel simulation, loops, replica exchange, analysis of results, liquid structure, 
+time correlation functions, estimating errors.
+
+
+5. Meso Scale Methods
+
+Langevin and Brownian dynamics, Dissipative particle dynamics, lattice Boltzmann methods, 
+developing coarse grained potentials
+
+
+Course Material
+
+
+Understanding Molecular Simulation, Dean Frenkel and Berend Smit, Associated Press
+
+Molecular Driving Forces, Ken Dill and Sarina Bromberg, Garland Science
+
+Computer Simulation of Liquids, Michael Allen and Dominic Tildesley, Oxford Press.
