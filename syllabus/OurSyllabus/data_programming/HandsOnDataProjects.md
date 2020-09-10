@@ -2,9 +2,9 @@
 
 Instructor:
 
-Number of hours: 24 h (6 weeks)
+Number of hours: 75h (6 weeks)
 
-Number of ECTS: 2
+Number of ECTS: 3
 
 ## Course description
 
