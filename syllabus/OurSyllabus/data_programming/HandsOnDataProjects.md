@@ -2,9 +2,9 @@
 
 Instructor:
 
-Number of hours: 75h (6 weeks)
-
 Number of ECTS: 3
+
+Number of hours: 75h of hands on practical work over 6 weeks.
 
 ## Course description
 

@@ -4,10 +4,17 @@
 
 Instructor:
 
-Number of hours: 70 hours of classes over 7 weeks, 10 hours of programing examples (125 total work hours)
 
 Number of ECTS: 5 
 
+Number of hours: 125 total work hours
+
+- 28 hours of classes/tutorials over 7 weeks. 
+- 12 hours of programing or practical exercises over 6 weeks.
+- 25 hours revising required literature.
+- 25 hours of self-guided exercises.
+- 35 hours of evaluation work.
+ 
 ## Course description
 A pedagogical selection of topics in probability and statistics is presented.
 Choice and emphasis are driven predominantly
@@ -29,7 +36,7 @@ Open and mandatory to all LA-CoNGA students
 
 ## Schedule
 
-### Week 1 (10 hours):
+### Week 1 (6 hours):
 
 #### Basic concepts in probability and statistics
 
@@ -38,9 +45,9 @@ Open and mandatory to all LA-CoNGA students
 - Conditional probability and Bayes' theorem
 - The probability density function
 - Multidimensional PDFs
-- Programing exercises 
+- Programing/practical exercises 
 
-### Week 2 (10 hours):
+### Week 2 (6 hours):
 #### Parametric PDFs and parameter estimation 
 
 - Expectation values
@@ -48,16 +55,16 @@ Open and mandatory to all LA-CoNGA students
 - Parameter estimation
 - The classical examples: mean value and variance
 - Covariance, correlations, propagation of uncertainties
-- Programing exercises 
+- Programing/practical exercises 
 
-### Week 3 (10 hours):
+### Week 3 (6 hours):
 
 - A survey of selected distributions
 - Two examples of discrete distributions: Binomial and Poisson 
 - Common examples of real-valued distributions: Uniform, exponential, Gaussian, $\chi^2$, Breit-Wigner and Voigtian distributions
-- Programing exercises
+- Programing/practical exercises 
 
-### Week 4 (10 hours):
+### Week 4 (6 hours):
       
 #### The maximum likelihood theorem and its applications 
 
@@ -69,15 +76,15 @@ Open and mandatory to all LA-CoNGA students
 
 - Programing exercises 
 
-### Week 5 (10 hours):
+### Week 5 (6 hours):
 
 - Estimating efficiencies with ML fits 
 - ML applications: MLE parameter estimation for a regression and comparison with the Least Square Estimator. 
 - Systematic uncertainties
 - The profile-likelihod method
-- Programing exercises 
+- Programing/practical exercises 
 
-### Week 6 (10 hours):
+### Week 6 (6 hours):
 
 #### Statistical hypothesis testing
 
@@ -87,10 +94,10 @@ Open and mandatory to all LA-CoNGA students
 - The modified ${\rm CL}(s)$ hypothesis testing
 - Profiled likelihood ratios
 - Industry example : A/B testing
-- Programing exercises 
+- Programing/practical exercises 
   
  
-### Week 7 (10 hours):
+### Week 7 (6 hours):
  
 #### Basic concepts in Machine Learning 
  

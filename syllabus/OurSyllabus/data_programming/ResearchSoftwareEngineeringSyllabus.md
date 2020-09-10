@@ -2,9 +2,13 @@
 
 Instructor:
 
-Number of hours: 32 hours of classes over 5 weeks (~50 hours of total work)
-
 Number of ECTS: 2 ECTS
+
+Number of hours: 50 hours of total work.
+
+- 24 hours of classes/tutorials over 5 weeks. 
+- 6 hours of self guided exercises.
+- 20 hours of evaluation work. 
 
 ## Course description
 The aim of this course is learn how to construct reliable, readable, efficient research software in a collaborative environment. 
@@ -30,7 +34,7 @@ Basic programming knowledge. Students should have done an introductory course in
  
 ## Schedule
 
-### Week 1 (8 hours):	
+### Week 1 (6 hours):	
 
 ## Introduction to open reproducible data science
 
@@ -44,7 +48,7 @@ Basic programming knowledge. Students should have done an introductory course in
 - List comprehensions
 - Functions in Python
 - Modules in Python
-- An introduciton to classes
+- An introduction to classes
 
 #### Research Data in Python
 - Working with files on the disk
@@ -53,7 +57,7 @@ Basic programming knowledge. Students should have done an introductory course in
 - Plotting with Matplotlib
 - Animations with Matplotlib
 
-### Week 2 (8 hours):	
+### Week 2 (6 hours):	
 
 #### Version Control
 - Why use version control
@@ -73,7 +77,7 @@ Basic programming knowledge. Students should have done an introductory course in
 - Debugging
 - Continuous Integration
 
-### Week 3 (8 hours): 	
+### Week 3 (6 hours): 	
 
 #### Software Projects and Reproducible Environments
 - Turning your code into a package
@@ -90,7 +94,7 @@ Basic programming knowledge. Students should have done an introductory course in
 - Object Orientation
 - Design Patterns
 
-### Week 4 (8 hours):	
+### Week 4 (6 hours):	
 
 #### Programming for Speed
 - Optimisation
@@ -106,7 +110,7 @@ Basic programming knowledge. Students should have done an introductory course in
 - Operator overloading
 - Iterators and Generators
 
-### Week 5
+### Week 5 (6 hours)
 
 Assessment week.
 
