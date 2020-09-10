@@ -2,9 +2,13 @@
 
 Instructor:
 
-Number of hours: 16 hours of classes over one month (~24 hours of total work)
+Number of ECTS: 2 ECTS
 
-Number of ECTS: 1 ECTS
+Number of hours: 50 hours of total work.
+
+- 24 hours of classes/tutorials over 5 weeks. 
+- 6 hours of self guided exercises.
+- 20 hours of evaluation work. 
 
 ## Course description
 The aim of this course is learn how to construct reliable, readable, efficient research software in a collaborative environment. 
@@ -30,7 +34,12 @@ Basic programming knowledge. Students should have done an introductory course in
  
 ## Schedule
 
-### Week 1 (4 hours):	
+### Week 1 (6 hours):	
+
+## Introduction to open reproducible data science
+
+- What is open science?
+- Why reproducibility is important in science?
 
 #### Introduction to Python
 - Why use scripting languages?
@@ -39,7 +48,7 @@ Basic programming knowledge. Students should have done an introductory course in
 - List comprehensions
 - Functions in Python
 - Modules in Python
-- An introduciton to classes
+- An introduction to classes
 
 #### Research Data in Python
 - Working with files on the disk
@@ -48,7 +57,7 @@ Basic programming knowledge. Students should have done an introductory course in
 - Plotting with Matplotlib
 - Animations with Matplotlib
 
-### Week 2 (4 hours):	
+### Week 2 (6 hours):	
 
 #### Version Control
 - Why use version control
@@ -68,7 +77,7 @@ Basic programming knowledge. Students should have done an introductory course in
 - Debugging
 - Continuous Integration
 
-### Week 3 (4 hours): 	
+### Week 3 (6 hours): 	
 
 #### Software Projects and Reproducible Environments
 - Turning your code into a package
@@ -85,7 +94,7 @@ Basic programming knowledge. Students should have done an introductory course in
 - Object Orientation
 - Design Patterns
 
-### Week 4 (4 hours):	
+### Week 4 (6 hours):	
 
 #### Programming for Speed
 - Optimisation
@@ -101,6 +110,15 @@ Basic programming knowledge. Students should have done an introductory course in
 - Operator overloading
 - Iterators and Generators
 
+### Week 5 (6 hours)
+
+Assessment week.
+
+## Assessment
+
+The assessment of this module is based on a code assignment.   
+Students are expected to submit a short report and your code. The purpose of the report is to answer the non-coding questions, to present results and provide a brief description of design choices and implementation. 
+This correspond to 20% of the total grade for the data science module.
 
 ## Course material
 
@@ -109,11 +127,13 @@ https://alan-turing-institute.github.io/rsd-engineeringcourse/notes.pdf
 ### Required
 
 This course is largely based on the course created by J. Hetherington for PhD 
-students at The Alan Turing Institute https://alan-turing-institute.github.io/rsd-engineeringcourse/
+students at The Alan Turing Institute: 
+
+* [Research Software Engineering in Python](https://alan-turing-institute.github.io/rsd-engineeringcourse/)
 
 ### Recommended reading
 
-* The Turing Way guide: https://the-turing-way.netlify.com/introduction/introduction
+* [The Turing Way Guide](https://the-turing-way.netlify.com/introduction/introduction)
 
 
 
