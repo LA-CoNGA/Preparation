@@ -14,8 +14,8 @@ The aim of this course is learn the principles of particle detection, as well as
 * Historic of particle detection
 * Particle-matter interactions
 * Solid state detector: 
-** Scintillators and photodetectors
-** Semi-conductor based detectors
+  * Scintillators and photodetectors
+  * Semi-conductor based detectors
 * Gaseous detectors
 * Calorimetry: electromagnetic and hadronic calorimetry
 * Particle identification in nuclear and high energy physics
