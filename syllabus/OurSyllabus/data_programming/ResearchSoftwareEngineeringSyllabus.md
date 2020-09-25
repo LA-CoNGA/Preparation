@@ -1,6 +1,6 @@
 # Research Software Engineering in Python
 
-Instructor:
+Instructor: To be defined
 
 Number of ECTS: 2 ECTS
 
@@ -27,12 +27,22 @@ The course is based on Python but the general ideas can be applied to any other 
 * Speed and optimisation
 * Advanced Programming Techniques
 
-## Pre-requisites
+## Pre-requisites/Co-requisites
 
-Basic programming knowledge. Students should have done an introductory course in Python, 
- we will provide a recommended online course. 
- 
+Basic programming knowledge. Students should have done an introductory course in Python, we will provide a recommended online course. 
+
 ## Schedule
+
+### Class Structure
+* Each session is a self-contained module
+* A set of questions and exercises are proposed at the end of each session as individual work
+### Assessments
+The assessment of this module is based on a code assignment.   
+Students are expected to submit a short report and your code. The purpose of the report is to answer the non-coding questions, to present results and provide a brief description of design choices and implementation. 
+This correspond to 20% of the total grade for the data science module.
+
+
+## Schedule and weekly learning goals
 
 ### Week 1 (6 hours):	
 
@@ -113,12 +123,6 @@ Basic programming knowledge. Students should have done an introductory course in
 ### Week 5 (6 hours)
 
 Assessment week.
-
-## Assessment
-
-The assessment of this module is based on a code assignment.   
-Students are expected to submit a short report and your code. The purpose of the report is to answer the non-coding questions, to present results and provide a brief description of design choices and implementation. 
-This correspond to 20% of the total grade for the data science module.
 
 ## Course material
 
