@@ -1,6 +1,6 @@
 # Research Software Engineering in Python
 
-Instructor: To be defined
+Instructor(s): To be defined
 
 Number of ECTS: 2 ECTS
 
