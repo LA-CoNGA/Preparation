@@ -2,7 +2,7 @@
 
 # Probability and Statistics
 
-Instructor:
+Instructor(s): To be defined
 
 
 Number of ECTS: 5 
@@ -17,8 +17,7 @@ Number of hours: 125 total work hours
  
 ## Course description
 A pedagogical selection of topics in probability and statistics is presented.
-Choice and emphasis are driven predominantly
-from physics analyses using experimental data from high-energy physics detectors. The final section gives a high level description of basic concepts on machine learning. 
+Choice and emphasis are driven predominantly from physics analyses using experimental data from high-energy physics detectors. The final section gives a high level description of basic concepts on machine learning. 
 The magistral classes are completed with practical training sessions.
 
 ### Topic overview
@@ -29,10 +28,22 @@ The magistral classes are completed with practical training sessions.
 - Statistical hypothesis testing
 - Basic concepts in Machine Learning 
 
+## Pre-requisites/co-requisites
 
-## Pre-requisites
+Open and mandatory to all LA-CoNGA students.
+Students must have followed the Research Software Engineering course.
 
-Open and mandatory to all LA-CoNGA students
+## Schedule
+
+### Class Structure
+* Each session is a self-contained module
+* The magistral classes are completed with practical training sessions using jupyter notebooks
+
+### Assessments
+The assessment of this module is based on:
+* Practical training sessions (20%)
+* Quizzes (20%)
+* Mid-term and final code assignments (60%)
 
 ## Schedule
 
@@ -73,7 +84,6 @@ Open and mandatory to all LA-CoNGA students
 - Samples composed of multiple species
 - Extended ML fits
 - Non-parabolic likelihoods,  likelihoods with multiple maxima
-
 - Programing exercises 
 
 ### Week 5 (6 hours):
@@ -115,5 +125,13 @@ Open and mandatory to all LA-CoNGA students
 ## Course material
 
 ### Required
+* G. Cowan, Statistical Data Analysis, Clarendon Press, Oxford, 1998.
+* R.J.Barlow, A Guide to the Use of Statistical Methods in the Physical Sciences, John Wiley, 1989;
+* F. James, Statistical Methods in Experimental Physics, 2nd ed., World Scientific, 2006;
+* S.Brandt, Statistical and Computational Methods in Data Analysis, Springer, New York, 1998.
+* L.Lyons, Statistics for Nuclear and Particle Physics, CUP, 1986.
 
 ### Further reading
+* Statistical Methods in Particle Physics WS. (Heidelberg): S. Masciocchi / N. Berger: http://www.physi.uni-heidelberg.de/~nberger/teaching/ws12/statistics/statistics.php
+* Introduction to Statistical Methods: 2011 CERN Summer Student Lectures (Glen Cowan)
+* http://www.pp.rhul.ac.uk/~cowan/stat_cern.html
