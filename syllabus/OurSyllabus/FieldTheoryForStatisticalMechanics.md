@@ -1,4 +1,4 @@
-# Field theory for statistical mechanics
+# Field theory for statistical mechanics  (Complex Systems specialisation only)
 
 Instructor(s): To be defined
 
