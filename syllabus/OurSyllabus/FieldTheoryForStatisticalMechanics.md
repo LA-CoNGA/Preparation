@@ -8,7 +8,7 @@ Number of hours: 140 hours of total work.
 * 32 hours of classes (4 hrs per week for 8 weeks)
 * 16 hours of tutorials (2 hrs per week for 8 weeks)
 * 32 hours of written assignments (8 homeworks of 4 hrs each)
-* 60 hours of reading assignments (400 pages at 5 pages per hr)
+* 60 hours of reading assignments (300 pages at 5 pages per hr)
 
 ## Course description
 The aim of this course is to provide a general overview of the most used techniques of field theory in statistical physics and to understand the most relevant mechanism entering in the phenomena of phase transition, phases classification, and critical phenomena. 
@@ -30,7 +30,7 @@ The aim of this course is to provide a general overview of the most used techniq
 * A set of questions, videos, exercises and reading are proposed at the end of each session for individual work
 
 ### Assessments
-Students are expected to submit 4 written homeworks. This corresponds to 100% of the total grade.
+Students are expected to submit 8 written homeworks. This corresponds to 100% of the total grade.
 
 ## Schedule and weekly learning goals
 
