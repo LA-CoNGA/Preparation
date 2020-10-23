@@ -46,7 +46,7 @@ This correspond to 20% of the total grade for the data science module.
 
 ### Week 1 (6 hours):	
 
-## Introduction to open reproducible data science
+#### Introduction to open reproducible data science
 
 - What is open science?
 - Why reproducibility is important in science?
