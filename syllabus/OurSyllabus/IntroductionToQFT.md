@@ -12,6 +12,7 @@ Number of hours: 140 hours of total work.
 
 ## Course description
 The aim of this course is to learn the basic formalism of Quantum Field Theory and its applications in Particle Physics and Condensed Matter. 
+This course is commong to both specialisation: complex Systems and High Energy Physics.
 
 ### Topic overview
 * Special relativity
