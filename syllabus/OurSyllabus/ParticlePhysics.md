@@ -1,4 +1,4 @@
-# Particle Physics 
+# Particle Physics  (HEP specialisation only)
 
 Instructor(s): To be defined
 
