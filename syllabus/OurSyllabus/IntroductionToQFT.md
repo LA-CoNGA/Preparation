@@ -1,76 +1,80 @@
-- # Introduction to Quantum Field Theory
+Instructor(s): To be defined
 
-Instructor:
--
-+
-## Course Description
--
--
-### Topic overview
-A1. Recap of Special relativity
-* Change of frame, four vectors, boost
-* Relativistic kinematics
-* Decay in two, three bodies
-* Two-body reactions, phase space and flux, cross section
+Number of ECTS: 5 ECTS
 
-A2. Introduction to spin 0,1/2,1 particles
-* Klein-Gordon lagrangian
-* Notion of spin, helicity, polarisation
-* Dirac and Electromagnetism lagrangians
+Number of hours: 140 hours of total work.
+* 32 hours of classes (4 hrs per week for 8 weeks)
+* 16 hours of tutorials (2 hrs per week for 8 weeks)
+* 32 hours of written assignments (8 homeworks of 4 hrs each)
+* 60 hours of reading assignments (300 pages at 5 pages per hr)
 
-A3. Dirac equation 
-* Dirac equation and its solutions
-* Diracology 
-* Illustration: g-2( first order)
+# Course description
+The aim of this course is to learn the basic formalism of Quantum Field Theory and its applications in Particle Physics and Condensed Matter. 
 
-A4. QED
-* Gauge invariance, covariant derivative
-* Coupling of photon to fermions
-* Feynman rules 
-* First applications: E.M. potential
+## Topic overview
+* Special relativity
+* Classical field theory
+* Free scalar fields
+* Interacting scalar fields
+* Feynman calculus
+* Renormalization
+* Spontaneous symmetry breaking
 
-A5. e+e-->mu+mu- Computation with trace identities
-* Angular analysis 
-* Helicity analysis
-* Non-relativistic and ultrarelativistic limits
-* Crossing symmetry
+## Pre-requisites/Co-requisites
+* Classical Mechanics
+* Electromagnetism
+* Quantum Mechanics
 
-A6. Electron-photon interacion
-* Compton scattering
-* Bhabha scattering
-* Soft bremssstrahlung
-* Infrared and collinear divergencies
+Remedial tutorials will be offered to students who are not Physics majors. 
 
-A7. Vaccum polarisation
-* Notion of self-energy
-* One-loop computation
-* Notion of regularization
-* Implementations: dimensional regularization, alternatives
+# Schedule
 
-A8. Path integral and functional methods
-* Path integral in quantum mechanics
-* Functional quantization of scalar fields
-* Anticommuting fields
-* Dirac Field and Path Integrals
-* Path Integral Quantization of the Free Electromagnetic Field
-## Pre-requisites
+## Class Structure
+* Each session is a self-contained module
+* A set of questions, videos, exercises and reading are proposed at the end of each session for individual work
 
-## Schedule
+## Assessments
+Students are expected to submit 8 written homeworks. This corresponds to 100% of the total grade.
 
-## Grading
+# Schedule and weekly learning goals 
 
-## Course Material
+## Week 1 (4 hours): Review of basic concepts
+* Special Relativity. Griffiths 12.1-12.2. Lorentz invariance. Peskin 3.1.
+* Classical field theory: Lagrangian, Hamiltonian, Noether theorem. Peskin 2.2.
 
-* An Introduction to Quantum Field Theroy, Michael E. Peskin and Daniel V. Schroeder, Addisson-Wesley
-* Gauge Theories in Particle Physics( Vols I and II), I.J.R. Aitchison and A.J.G. Hey, CRC Press/Taylor and Francis
-* Quantum Field Theory in Nutshell, A. Zee, Princeton Univ Press
-* An introduction to Quantum Field Theory, G. Sterman, Cambridge Univ. Press
-* The Quantum Theory of Fileds( Vols 1 and 2), S. Weinberg, Cambridge Univ. Press
-* Quantum Field Theory, M. Srednicki
-* Quantum Field Theory and the Standar Model, M. Schwartz
-* Field Theory: A Path Integral Approach, Ashok Das, World Scientific Lecture Notes in Physics.
-## Required
-- This course is largely bassed QFT in a nutshell created by M. Cacciari
-## Future Reading
+## Week 2 (4 hours): Free scalar fields
+* Scalar fields as harmonic oscillators. Peskin 2.3
+* Scalar fields in spacetime. Peskin 2.3
+
+## Week 3 (4 hours): Interacting scalar fields. λφ4  theory. 
+* Perturbation theory. Peskin 4.1, 4.2.
+* Wick’s Theorem. Peskin 4.3.
+
+## Week 4 (4 hours): Feynman calculus
+* Feynman diagrams. Peskin 4.4.
+* Cross sections and S-matrix. Peskin 4.5.
+
+## Week 5 (4 hours): Scattering amplitudes from Feynman diagrams
+* S-matrix elements from Feynman diagrams. Peskin 4.6.
+* Tree-level examples. Ramond 4.4.
+
+## Week 6 (4 hours): Renormalization
+* Renormalization in the loop expansion. Peskin 10.1, 10.2.
+* The renormalization group. Peskin 12.1, 12.2, 12.3.
+
+##Week 7, 8 (8 hours): Spontaneous symmetry breaking
+* Spontaneous symmetry breaking of global symmetries. Goldstone Theorem. Peskin 11.1.
+* Spontaneous symmetry breaking of local symmetries. Higgs mechanism. Peskin 20.1.
+* Superconductivity. Weinberg.
+
+# Course material
+
+## Required reading
+
+* D.J. Griffiths, Introduction to Electrodynamics.
+* M.Peskin, D. Schroeder, An Introduction to Quantum Field Theory.
+* P. Ramond, Field Theory: A Modern Primer.
+* S. Weinberg, Superconductivity for Particular Theorists, Prog. Theor. Phys. Suppl. 86 (1986), 43. https://inspirehep.net/literature/18067
 
 
+## Recommended reading
