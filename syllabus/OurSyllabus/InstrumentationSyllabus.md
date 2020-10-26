@@ -1,4 +1,4 @@
-# Detector Physics
+# Instrumentation
 
 Instructor: To be Defined
 
