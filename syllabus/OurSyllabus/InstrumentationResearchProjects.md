@@ -1,13 +1,15 @@
-# Hands On Instrumentation Projects
+# Instrumentation REsearch Projects
 
-Instructors:
+Instructors: See proposed projects
 
 
-Number of hours: 48 hours of work over one month
+Number of hours: 60 hours of work over two and half months
 
 Number of ECTS: 5
 
 ## Course description
+In this module the student will apply all the concepts studied in Instrumentation and Introduction to Measurement Systems modules. The student have to choose a topic from the list and propose a research plan, golas and activities to be carried out ina ten weeks lapse. At the end of the module the student must present a report of his project and perform an oral dissertation of the results obtained.
+
 
 ## Topics overview
 This is a list of the research areas proposed
@@ -82,7 +84,7 @@ Positron Emission Tomography (PET) scanner is the state-of-the-art medical imagi
   * CAEN SP5701-Easy PET Kit
   * Radioactive source (22Na 1/2 inch disk, 10uCi)
   
-* Institutions
+* Institutions and responsable
   * UNI
   * UAN
   * UIS
@@ -90,6 +92,7 @@ Positron Emission Tomography (PET) scanner is the state-of-the-art medical imagi
   * USB
 
 * References
+ * CAEN Educational Handbook 2018
 
 #### Particle Detection: Muon bundles
 
@@ -104,8 +107,8 @@ Cosmic ray physics is our unique source of information on events in the energy r
   * WCD detectors
   * RPC detectors
 
-* Institutions
-  * USFQ 
+* Institutions and responsable
+  * USFQ (Dennis Cazar Ramírez)
   
 * References
   * P. Kankiewicz, M. Rybczynski, Z. Wlodarczyk, G. Wilk. Muon bundles from the Universe, https://arxiv.org/abs/1710.08193
@@ -126,8 +129,8 @@ The average lifetime of the muon has a well known value. It can be obtained for 
   * WCD detectors
   * Plastic Scintillator detector
 
-* Institutions
-  * USFQ 
+* Institutions and responsable
+  * USFQ (Dennis Cazar Ramírez)
   * UIS
   * UAN
 
@@ -143,7 +146,7 @@ The average lifetime of the muon has a well known value. It can be obtained for 
   
   * Topics
   
-  * Matqerial/Equipment
+  * Material/Equipment
   
   * References
   
@@ -152,7 +155,7 @@ The average lifetime of the muon has a well known value. It can be obtained for 
   
   * Topics
   
-  * Matqerial/Equipment
+  * Material/Equipment
   
   * References
 
