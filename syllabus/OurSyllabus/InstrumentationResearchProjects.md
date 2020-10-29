@@ -1,4 +1,4 @@
-# Instrumentation REsearch Projects
+# Instrumentation Research Projects
 
 Instructors: See proposed projects
 
