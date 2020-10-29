@@ -1,9 +1,9 @@
 # Instrumentation Research Projects
 
-Instructors: See proposed projects
+Instructors: 
 
 
-Number of hours: 60 hours of work over two and half months
+Number of hours: 60 hours of work over two and half months (10 weeks)
 
 Number of ECTS: 5
 
@@ -130,7 +130,7 @@ The average lifetime of the muon has a well known value. It can be obtained for 
   * Plastic Scintillator detector
 
 * Institutions and responsable
-  * USFQ (Dennis Cazar Ramírez)
+  * USFQ Dennis Cazar Ramírez
   * UIS
   * UAN
 
@@ -141,21 +141,51 @@ The average lifetime of the muon has a well known value. It can be obtained for 
   * W.R. Leo, Techniques for Nuclear and Particle Physics Experiments, 2nd edition, Springer Verlag (1994) Berlin, Heidelberg
   * P.R. Bevington & D.K. Robinson, Data Reduction and Error Analysis for the Physical Sciences, 3rd edition, McGraw-Hill (2003)
   
-  ### Project Area: Project Title
+  ### Muon Tomography: Mounting & Testing of an Hodoscope
   * Description
   
   * Topics
   
   * Material/Equipment
+   
+  * Institutions and responsable
+   * UIS Luis Nuñez
+  
+   * References
+  
+  ### PMT Thecnology: Characterization of PMTs
+  * Description
+  
+  * Topics
+  
+  * Material/Equipment
+  
+  * Institutions and responsable
+   * YT Harold Yepes
   
   * References
-  
-  ### Project Area: Project Title
+
+### Particle Detection: Portable muon counter
   * Description
   
   * Topics
   
   * Material/Equipment
+  
+  * Institutions and responsable
+   * USFQ Dennis Cazar Ramírez
+  
+  * References
+
+### Citizen Science: Environmental monitoring station
+  * Description
+  
+  * Topics
+  
+  * Material/Equipment
+  
+  * Institutions and responsable
+   * UIS Luis Nuñez
   
   * References
 
