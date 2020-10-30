@@ -3,11 +3,11 @@
 Instructor(s): To be defined
 
 * Number of ECTS: 5 ECTS
-* Number of hours: 160 hours of total work. (final distribution to be defined/discussed)
+* Number of hours: 140 hours of total work. (final distribution to be defined/discussed)
 	* 32 hours of classes (4 hrs per week for 8 weeks)
 	* 16 hours of tutorials (2 hrs per week for 8 weeks)
 	* 32 hours of written assignments (8 homeworks of 4 hrs each)
-	* 80 hours of reading assignments (400 pages at 5 pages per hr)
+	* 60 hours of reading assignments (300 pages at 5 pages per hr)
 
 ## Course description
 
