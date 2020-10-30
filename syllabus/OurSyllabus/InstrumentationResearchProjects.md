@@ -3,12 +3,14 @@
 Instructors: 
 
 
-Number of hours: 60 hours of work over two and half months (10 weeks)
+Number of hours: 140 hours of work over two and half months (10 weeks)
 
 Number of ECTS: 5
 
 ## Course description
-In this module the student will apply all the concepts studied in Instrumentation and Introduction to Measurement Systems modules. The student have to choose a topic from the list and propose a research plan, golas and activities to be carried out ina ten weeks lapse. At the end of the module the student must present a report of his project and perform an oral dissertation of the results obtained.
+In this module the student will apply all the concepts studied in Instrumentation and Introduction to Measurement Systems modules. The student have to choose a topic from the list and propose a research plan, goals and activities to be carried out in a ten weeks lapse. At the end of the module the student must present a report of his project and perform an oral dissertation of the results obtained.
+
+This module is fundamentally a research activity to be carried out independently by the student with the support of a tutor, therefore, there is no class sessions. Instead the student mut follow the schedule detailed in the appropiate section.
 
 
 ## Topics overview
@@ -30,10 +32,11 @@ This is a list of the research areas proposed
 ## Schedule
 
 ### Class Structure
-This module 
+
+According to the weekly schedule the studen must coordinate enconuters with his tutor to organize the work, review the progress and report results. The schedule can be changed if sutdent and tutor agree so.
 
 ### Assessments
-* A weekly report about the progress must be presented and discussed with the tutor
+* A weekly oral report must be presented and a regular discussion with the tutor is mandatory
 * An article describing the project must be presented at the end of the module
 * A brief dissertation about the results of the project is forseen
 
