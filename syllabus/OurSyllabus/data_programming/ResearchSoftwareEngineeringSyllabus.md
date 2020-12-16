@@ -44,7 +44,7 @@ This correspond to 20% of the total grade for the data science module.
 
 ## Schedule and weekly learning goals
 
-### Week 1 (6 hours):	
+### Week 1 (2+2=4 hours of classes):	
 
 #### Introduction to open reproducible data science
 
@@ -67,7 +67,7 @@ This correspond to 20% of the total grade for the data science module.
 - Plotting with Matplotlib
 - Animations with Matplotlib
 
-### Week 2 (6 hours):	
+### Week 2 (2+2=4 hours of classes):	
 
 #### Version Control
 - Why use version control
@@ -87,7 +87,7 @@ This correspond to 20% of the total grade for the data science module.
 - Debugging
 - Continuous Integration
 
-### Week 3 (6 hours): 	
+### Week 3 (2+2=4 hours of classes): 	
 
 #### Software Projects and Reproducible Environments
 - Turning your code into a package
