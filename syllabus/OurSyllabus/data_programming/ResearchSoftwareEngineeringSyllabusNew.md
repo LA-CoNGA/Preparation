@@ -78,42 +78,64 @@ This correspond to 20% of the total grade for the data science module.
 
 ### Week 2 (2+2=4 hours of classes):	
 
+
+-- Create/deliver Git repo with examples
+
+## Class #3 
+
 #### Version Control
-- Why use version control
+- Short intro to the Unix Terminal
+- Why use version control?
 - Solo use of version control
 - Publishing your code to GitHub
 - Collaborating with others through Git
-- Branching
-- Rebasing and Merging
-- Debugging with GitBisect
-- Forks, Pull Requests and the GitHub Flow
+- Forks, Pull/Merge Requests and the GitHub Flow
+
+- Branching *(Optional)*
+- Rebasing and Merging *(Optional)*
+- Debugging with GitBisect *(Optional)*
+
+
+## Class #4
 
 #### Testing your code
+- Example code
 - Why test?
 - Unit testing and regression testing
 - Negative testing
-- Mocking
+- Mocking (prototipado)
 - Debugging
-- Continuous Integration
+- Continuous Integration *(Optional)*
+
+---
 
 ### Week 3 (2+2=4 hours of classes): 	
 
-#### Software Projects and Reproducible Environments
-- Turning your code into a package
-- Releasing code
-- Choosing an open-source license
-- Software project management
-- Organising issues and tasks
+## Class #5
 
 #### Construction and Design
 - Coding conventions
 - Comments
 - Refactoring
 - Documentation
-- Object Orientation
+- Object Orientation (classes)
 - Design Patterns
 
-### Week 4 (6 hours):	
+## Class #6
+
+#### Software Projects and Reproducible Environments
+- Turning your code into a package
+- Releasing code
+- Choosing an open-source license
+-In GitLab / GitHub
+-- Software project management
+-- Organising issues and tasks
+
+---
+
+### Week 4 (2+2=4 hours):	
+
+## Class #7
 
 #### Programming for Speed
 - Optimisation
@@ -122,6 +144,8 @@ This correspond to 20% of the total grade for the data science module.
 - NumPy
 - Cython
 
+## Class #8
+
 #### Advanced Programming Techniques
 - Functional programming
 - Metaprogramming
@@ -129,9 +153,13 @@ This correspond to 20% of the total grade for the data science module.
 - Operator overloading
 - Iterators and Generators
 
-### Week 5 (6 hours)
+---
 
-Assessment week.
+### Week 5 (6 hours)
+- Buffer 
+- Assessment week.
+
+---
 
 ## Course material
 
