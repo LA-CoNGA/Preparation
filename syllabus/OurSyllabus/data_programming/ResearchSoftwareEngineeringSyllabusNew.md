@@ -2,13 +2,13 @@
 
 Instructor(s): To be defined
 
-Number of ECTS: 2 ECTS
+Number of ECTS: (TBD)
 
-Number of hours: 50 hours of total work.
+Number of hours: 52 hours of total work.
 
-- 24 hours of classes/tutorials over 5 weeks. 
-- 6 hours of self guided exercises.
-- 20 hours of evaluation work. 
+- 16 hours of classes/tutorials, over 4 weeks. 
+-  4 hours of evaluation work, over 1 week
+- 32 hours of self guided exercises.
 
 ## Course description
 The aim of this course is learn how to construct reliable, readable, efficient research software in a collaborative environment. 
@@ -29,13 +29,14 @@ The course is based on Python but the general ideas can be applied to any other 
 
 ## Pre-requisites/Co-requisites
 
-Basic programming knowledge. Students should have done an introductory course in Python, we will provide a recommended online course. 
+Basic programming knowledge. Students should have done an introductory course in Python, we will provide a recommended online course.
 
 ## Schedule
 
 ### Class Structure
 * Each session is a self-contained module
 * A set of questions and exercises are proposed at the end of each session as individual work
+
 ### Assessments
 The assessment of this module is based on a code assignment.   
 Students are expected to submit a short report and your code. The purpose of the report is to answer the non-coding questions, to present results and provide a brief description of design choices and implementation. 
