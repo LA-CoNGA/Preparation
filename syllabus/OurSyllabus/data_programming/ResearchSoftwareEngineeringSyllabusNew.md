@@ -41,6 +41,14 @@ The assessment of this module is based on a code assignment.
 Students are expected to submit a short report and your code. The purpose of the report is to answer the non-coding questions, to present results and provide a brief description of design choices and implementation. 
 This correspond to 20% of the total grade for the data science module.
 
+#### Homework (tareas) Repo
+Repo with #classes and inside each class:
+* Docs
+* Codes
+* Data
+* README.md
+
+---
 
 ## Schedule and weekly learning goals
 
@@ -55,35 +63,6 @@ This correspond to 20% of the total grade for the data science module.
 - What is open science?
 - Why reproducibility is important in science?
 
-#### Introduction to Python
-- Why use scripting languages?
-- Python. IPython and the IPython notebook.
-- List comprehensions
-- Functions in Python
-- Modules in Python
-- Data structures: list, dictionaries, and sets.
-- An introduction to classes *(Optional)*
-
-### Class #2
-
-#### Research Data in Python
-- Working with files on the disk
-- Interacting with the internet
--- streaming
-- Plotting with Matplotlib
-- Animations with Matplotlib
-- JSON and YAML *(Optional)*
-- API *(Optional)*
-
----
-
-### Week 2 (2+2=4 hours of classes):	
-
-
--- Create/deliver Git repo with examples
-
-### Class #3 
-
 #### Version Control
 - Short intro to the Unix Terminal
 - Why use version control?
@@ -96,6 +75,34 @@ This correspond to 20% of the total grade for the data science module.
 - Rebasing and Merging *(Optional)*
 - Debugging with GitBisect *(Optional)*
 
+### Class #2
+
+#### Introduction to Python
+- Why use scripting languages?
+- Python. IPython and the IPython notebook.
+- List comprehensions
+- Functions in Python
+- Modules in Python
+- Data structures: list, dictionaries, and sets.
+- An introduction to classes *(Optional)*
+
+---
+
+### Week 2 (2+2=4 hours of classes):	
+
+
+-- Create/deliver Git repo with examples
+
+### Class #3 
+
+#### Research Data in Python
+- Working with files on the disk
+- Interacting with the internet
+-- streaming
+- Plotting with Matplotlib
+- Animations with Matplotlib
+- JSON and YAML *(Optional)*
+- API *(Optional)*
 
 ### Class #4
 
