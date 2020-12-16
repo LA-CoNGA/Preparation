@@ -46,9 +46,10 @@ This correspond to 20% of the total grade for the data science module.
 
 ### Week 1 (2+2=4 hours of classes):	
 
-## Class #0 --> Diagnostic Test
+### Class #0
+- Diagnostic Test
 
-## Class #1
+### Class #1
 
 #### Introduction to open reproducible data science
 - What is open science?
@@ -63,7 +64,7 @@ This correspond to 20% of the total grade for the data science module.
 - Data structures: list, dictionaries, and sets.
 - An introduction to classes *(Optional)*
 
-## Class #2
+### Class #2
 
 #### Research Data in Python
 - Working with files on the disk
@@ -81,7 +82,7 @@ This correspond to 20% of the total grade for the data science module.
 
 -- Create/deliver Git repo with examples
 
-## Class #3 
+### Class #3 
 
 #### Version Control
 - Short intro to the Unix Terminal
@@ -96,7 +97,7 @@ This correspond to 20% of the total grade for the data science module.
 - Debugging with GitBisect *(Optional)*
 
 
-## Class #4
+### Class #4
 
 #### Testing your code
 - Example code
@@ -111,7 +112,7 @@ This correspond to 20% of the total grade for the data science module.
 
 ### Week 3 (2+2=4 hours of classes): 	
 
-## Class #5
+### Class #5
 
 #### Construction and Design
 - Coding conventions
@@ -121,7 +122,7 @@ This correspond to 20% of the total grade for the data science module.
 - Object Orientation (classes)
 - Design Patterns
 
-## Class #6
+### Class #6
 
 #### Software Projects and Reproducible Environments
 - Turning your code into a package
@@ -135,7 +136,7 @@ This correspond to 20% of the total grade for the data science module.
 
 ### Week 4 (2+2=4 hours):	
 
-## Class #7
+### Class #7
 
 #### Programming for Speed
 - Optimisation
@@ -144,7 +145,7 @@ This correspond to 20% of the total grade for the data science module.
 - NumPy
 - Cython
 
-## Class #8
+### Class #8
 
 #### Advanced Programming Techniques
 - Functional programming
