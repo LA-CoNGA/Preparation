@@ -90,9 +90,6 @@ Repo with #classes and inside each class:
 
 ### Week 2 (2+2=4 hours of classes):	
 
-
--- Create/deliver Git repo with examples
-
 ### Class #3 
 
 #### Research Data in Python
@@ -152,7 +149,7 @@ Repo with #classes and inside each class:
 - NumPy
 - Cython
 
-### Class #8
+### Class #8  *(Optional)*
 
 #### Advanced Programming Techniques
 - Functional programming
@@ -163,8 +160,7 @@ Repo with #classes and inside each class:
 
 ---
 
-### Week 5 (6 hours)
-- Buffer 
+### Week 5 (6 hours) 
 - Assessment week.
 
 ---
