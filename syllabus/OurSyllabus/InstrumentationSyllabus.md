@@ -74,7 +74,7 @@ Introduction to Measurements Systems
   * SiPM Characterization 
   * Dependence of the SiPM Properties on the Bias Voltage
   
-### Week 4: Gaseous Detectors
+### Week 4: Gaseous Detectors and Calorimeters
 * Session 5: Basic concepts
   * Gaseous detectors: general principles, real examples
   * Calorimetry: general principles and performance of Electromagnetic (EM) andhadronic calorimeters
