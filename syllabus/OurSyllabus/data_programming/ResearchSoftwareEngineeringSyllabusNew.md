@@ -2,13 +2,13 @@
 
 Instructor(s): To be defined
 
-Number of ECTS: (8 ECTS)
+Number of ECTS: (2 ECTS)
 
-Number of hours: 52 hours of total work.
+Number of hours: 56 hours of total work.
 
 - 16 hours of classes/tutorials, over 4 weeks. 
 -  4 hours of evaluation work, over 1 week
-- 32 hours of self guided exercises.
+- 36 hours of self guided exercises.
 
 ## Course description
 The aim of this course is learn how to construct reliable, readable, efficient research software in a collaborative environment. 
