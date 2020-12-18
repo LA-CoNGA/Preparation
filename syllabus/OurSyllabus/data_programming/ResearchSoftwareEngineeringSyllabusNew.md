@@ -2,7 +2,7 @@
 
 Instructor(s): To be defined
 
-Number of ECTS: (TBD)
+Number of ECTS: (8 ECTS)
 
 Number of hours: 52 hours of total work.
 
