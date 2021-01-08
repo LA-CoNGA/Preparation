@@ -96,9 +96,9 @@ Comments:
 
 ### Required
 
-* Understanding Molecular Simulation, Dean Frenkel and Berend Smit, Associated Press
-* Molecular Driving Forces, Ken Dill and Sarina Bromberg, Garland Science
-* Computer Simulation of Liquids, Michael Allen and Dominic Tildesley, Oxford Press.
+* Frenkel, D., & Smit, B. (2001). Understanding molecular simulation: from algorithms to applications (Vol. 1). Elsevier.
+* Dill, K., & Bromberg, S. (2012). Molecular driving forces: statistical thermodynamics in biology, chemistry, physics, and nanoscience. Garland Science.
+* Allen, M. P., & Tildesley, D. J. (2017). Computer simulation of liquids. Oxford university press.
 
 ### Recommended reading
 
