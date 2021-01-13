@@ -2,7 +2,7 @@
 
 # Probability and Statistics
 
-Instructor(s): To be defined
+Instructor(s): JO (lectures) and CRS (tutorials)
 
 
 Number of ECTS: 5 
