@@ -1,0 +1,38 @@
+# Reunión Instrumentación 28 11 2019
+
+## Curso de instrumentación
+
+* El curso de instrumentación es uno de los 3 cursos fundamentales que iniciarán el Enero 2021
+* El curso tendrá una duración de 12 semanas y se divide en tres partes:
+  - Electrónica para Físicos (4 semanas)
+  - Física de Detectores (4 semanas)
+  - Hands-on instrumentation (4 semanas)
+* Si es posible incluir en los cursos recursos OpenSource (Octave en lugar de Matlab por ejemplo)
+* Un borrador del Syllabus de Eelectrónica para Físicos está disponible en [ElectronicsForPhysicists](https://github.com/LA-CoNGA/WP1-Preparation/blob/instrumentation/syllabus/OurSyllabus/IntroductionToElectronicsForPhysicistsSyllabus.md) Comments are welcome!
+
+## Equipamiento y experiencias de Laboratorio
+
+* Después de analizar el plan de experimentos basados en la instrumentación de los laboratorios se propone diferenciar claramente los propósitos y uso de los laboratorios de la UIS (Electronic Prototyping Lab) y Yachay (Water Cherenkov Lab). 
+* En el Electronic Prototyping Lab se podrán realizar:
+    - Hands-on Instrumentation 
+    - Fundamental experiencies con WCDs
+    - Applications in Solar Physics and Space Weather
+ * El Laboratorio Water Cherenkov Lab
+    - Se denominará PMTs technologies
+    - Se realizarán pruebas de caracterización de PMTS (quantum efficiency, after pulses, etc)
+    - Se estudiarán aplicaciones en detección de partículas
+    
+  ## Budget para equipos y espacios físicos
+  
+  * El budget se encuentra consolidado, se deben determinar los costos de envío de los equipos a los respectivos laboratorios
+  * Cada Universidad debe asegurar la disponibilidad de espacios físicos idóneos:
+    - Los equipos se pueden instalar en un banco estándard de laboratorio
+    - Se necesita conectividad de alta velocidad, red eléctrica estable
+    - Instalaciones especiales (aislamiento electromagnético, puesta a tierra, etc) 
+  * Cada Universidad debe ocuparse de los trámites de desaduanización y nacionalización de los equipos
+    
+   ## Material restringido y radioactivo
+   * El sistema EasyPET necesita una fuente radioactiva 22Na Radioactive source, recommended: 1/2 inch disc, 10 μCi no incluida con el equipo La UIS debe adquirir esta fuente y tramitar los permisos de operación correspondientes
+   * El digitalizador de 16 canales es equipo restringido, necesita un End User Stament para que el gobierno italiano autorice la exportación
+   
+    
