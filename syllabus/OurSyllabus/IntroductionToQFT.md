@@ -1,4 +1,4 @@
-# Introduction to Quantum Field Theory
+# Introduction to Field Theory
 
 Instructor(s): To be defined
 
