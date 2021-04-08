@@ -11,19 +11,20 @@ Instructor(s): To be defined
 
 ## Course description
 
-The objective of this course is to provide an introduction to the phenomenological interpretation of the Standard Model theory at a graduate level. **Bla, bla**
+The objective of this course is to provide an introduction to the  **Bla, bla**
 
-## Topic overview
+## Topic overview (cada item se puede hacer un módulo independiente, pero se planean para tomarse en la secuencia indicada)
 
-1. Física nuclear con aplicación a técnicas médicas: Aceleradores de electrones, rayos X, Fuentes $\gamma$, aceleradores de iones, procesos físicos, aplicación en radioterapia y medicina nuclear.
-2. Radiobiología: células, división celular, reparación del DNA, organización de tejidos, efectos de la radiación en la materia, dinámica de poblaciones celulares, curvas y modelos de dosis-efecto, dependencia de la LET, OER, RBE, clasificación del daño celular, crecimiento tumoral, efecto bystander, efectos estocásticos y determinísticos.
-3. QED + Renormalización
-4. QCD
-5. Weak interacions & SM
+1. Física nuclear con aplicación a técnicas médicas: Aceleradores de electrones, rayos X, Fuentes $\gamma$, aceleradores de iones, procesos físicos involucrados en la generación de radiación ionizante y la absorción de dosis, aplicación en radioterapia y medicina nuclear. (6 horas)  
+2. Radiobiología: células, división celular, reparación del DNA, organización de tejidos, efectos de la radiación en la materia, dinámica de poblaciones celulares, curvas y modelos de dosis-efecto, dependencia de la LET, OER, RBE, clasificación del daño celular, crecimiento tumoral, efecto bystander, efectos estocásticos y determinísticos. (6 horas)  
+3. Protección radiológica: Cantidades dosimétricas: absorbida, efectiva, equivalente. Modelos de blindajes y cálculos sencillos. Simulaciones (gamos + gate) + mini-proyecto (6 horas)  
+4. Imágenes médicas: Rayos X y CT, PET y RMN, Procesamiento de imágenes, segmentación. (6 horas)  
+* **Quedan 8 horas para profundizar en geant4, radioterapia, etc**
 
 ### Pre-requisites/Co-requisites
-Classical Mechanics, Electromagnetism, Quantum Mechanics. Remedial tutorials will be offered to students who are not Physics majors. 
+recomendado: primer semestre laconga completo en cualquier filial
 
+<!--
 ## Schedule
 
 ### Week 1: Introduction
@@ -75,3 +76,4 @@ Classical Mechanics, Electromagnetism, Quantum Mechanics. Remedial tutorials wil
 ## Ref
 
 [^1]: https://indico.in2p3.fr/event/22310/contributions/86461/note/
+-->
